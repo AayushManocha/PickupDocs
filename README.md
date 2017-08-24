@@ -1,3 +1,6 @@
-# My Awesome Book
+# Pickup Docs
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Welcome to the Pickup App Documentation. This series of docs is meant to serve as an internally used and maintained documentation regarding the development process of the Pickup App Platform.
+
+All Pickup engineers are allowed to edit this document.
+
