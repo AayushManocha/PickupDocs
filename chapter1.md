@@ -1,5 +1,7 @@
 # Developer Setup
 
+**NOTE: This article is currently under review. It is subject to change and may not be 100% accurate.**
+
 ## Local Environment Setup
 
 Here's how to get the project \(current hosted on GitHub\) setup on your computer.
@@ -21,7 +23,7 @@ cd Pickup
 npm install
 ```
 
-This could take a while. These commands will navigate into the new project directory and install all development and production level project dependencies as listed in the package.json file. 
+This could take a while. These commands will navigate into the new project directory and install all development and production level project dependencies as listed in the package.json file.
 
 **If the second command doesn't work, ensure you have Node.js installed on your system. Download the latest stable release from nodejs.org**
 
@@ -44,8 +46,6 @@ npm start
 ```
 
 This could take a while. This will start a local dev web server to run the project from . Make sure your phone and computer are on the same WiFi network and then scan the QR code from your terminal within the Expo Client app on your phone. This should show you the bare minimum starter project that currently lives on the _master_ branch of the project.
-
-
 
 All Done!
 
